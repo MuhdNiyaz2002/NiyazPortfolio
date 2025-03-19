@@ -1,4 +1,4 @@
-![my icon](/assets/img/Power logo 2.PNG)
+![my icon](/assets/img/Power logo 2.png)
 ## 🚀 About Me
 
 I am a **Bachelor's Degree student in Electrical Power Engineering** at **Universiti Tenaga Nasional (UNITEN)**, with an anticipated graduation in **July 2025**. I possess a strong foundation in **power systems, machines and drives, and electronic circuits**, complemented by practical experience gained during my internship at **Tenaga Nasional Berhad (TNB)**. Additionally, I have proficiency in **programming languages** such as C, assembly language, and MATLAB.
