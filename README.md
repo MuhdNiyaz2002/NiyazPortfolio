@@ -1,4 +1,3 @@
-# NiyazPortfolio
 # Muhammad Niyaz Bin Syed Nazir 
 
  
