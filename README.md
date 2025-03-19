@@ -1,6 +1,5 @@
 # Muhammad Niyaz
 
-#### Aspiring Electrical Power Engineer
 
 ## 🚀 About Me
 
