@@ -1,137 +1,74 @@
-# Muhammad Niyaz Bin Syed Nazir 
+# Muhammad Niyaz
 
- 
+#### Aspiring Electrical Power Engineer
 
-#### Senior Lecturer | AI & Data Analytics in Energy | Smart Grid & Renewable Energy Solutions  
+## 🚀 About Me
 
- 
+I am a **Bachelor's Degree student in Electrical Power Engineering** at **Universiti Tenaga Nasional (UNITEN)**, with an anticipated graduation in **July 2025**. I possess a strong foundation in **power systems, machines and drives, and electronic circuits**, complemented by practical experience gained during my internship at **Tenaga Nasional Berhad (TNB)**. Additionally, I have proficiency in **programming languages** such as C, assembly language, and MATLAB.
 
-## 🚀 About Me  
+## 🛠 Technical Skills
 
-I am a **Senior Lecturer at Universiti Tenaga Nasional (UNITEN)** specializing in **AI-driven analytics, IoT solutions, smart metering, and predictive energy systems**. With over **15 years of experience**, I have collaborated extensively with **Tenaga Nasional Berhad (TNB)** on projects involving **non-technical loss detection, smart grid optimization, and energy fraud prevention**. My work bridges **academia and industry**, focusing on AI applications that enhance **grid reliability, energy security, and sustainability**.
+- **Programming:** C language, Assembly language, MATLAB
+- **Microsoft Office:** Proficient in Word, PowerPoint, Excel, and Power BI
+- **Power Systems:** Experienced in MATLAB and MATPOWER simulations
+- **Signal and Image Processing:** Digital sampling, filtering, enhancing, and restoring
 
- 
+### Soft Skills:
+- **Communication:** Effective in presenting ideas and gathering information
+- **Adaptive:** Thrives in both individual and group settings
+- **Critical Thinking:** Skilled in troubleshooting and developing comprehensive solutions
 
-## 🛠 Technical Skills  
+## 🎓 Education
 
-- **Artificial Intelligence & Machine Learning:** TensorFlow, LSTM, XGBoost, Deep Learning  
+- **Bachelor's Degree in Electrical Power Engineering** | Universiti Tenaga Nasional (UNITEN)
+  *2021 - 2025* | CGPA: **3.80**
 
-- **Data Science & Analytics:** Python, SQL, Grafana, Predictive Analytics  
+- **Foundation in Engineering** | Universiti Tenaga Nasional (UNITEN)
+  *2020 - 2021* | CGPA: **3.70**
 
-- **IoT & Embedded Systems:** Raspberry Pi, Arduino, Industrial IoT (IIoT), Smart Metering  
+## 💼 Work Experience
 
-- **Cybersecurity & Networking:** Kali Linux, Wireshark, VPN, Network Security  
+### **Intern @ Tenaga Nasional Berhad (TNB), Distribution Network (DN)**
+*Jul 2024 – Sep 2024*
+- Gained exposure to maintenance procedures of high-voltage assets such as transformers, switchgears, and cables.
+- Learned technical operations of asset diagnostics for high-voltage assets.
+- Utilized Microsoft Office tools for reporting and developed data analysis skills using Microsoft Power BI.
 
-- **Renewable Energy & Smart Grids:** AI-based energy forecasting, AMI Analytics, Power Systems  
+## 📂 Extra-Curricular Activities
 
- 
+- **Committee Member @ Mobile Robotics Club (MRC)** | *2023 - 2025*
+  - Managed multimedia tasks such as social media content and poster design.
+  - Actively participated in various club activities.
 
-## 🎓 Education  
+- **Head of Logistics Bureau @ Energy Literacy Tour (ELT) Program** | *2024*
+  - Oversaw logistics tasks including venue booking, item purchasing, and transportation arrangements.
 
-- **Ph.D. in Electrical Engineering** | Universiti Tenaga Nasional  
+- **Logistics Bureau Member @ MyCare: Level Up with YTN Program** | *2023*
+  - Supported logistics tasks such as venue booking and transportation arrangements.
 
-- **M.Eng in Electrical Engineering** | Universiti Tenaga Nasional  
+## 🏆 Achievements
 
-- **B.Eng in Electrical & Electronics Engineering** | Universiti Tenaga Nasional  
+- Silver medalist in the **4x400m relay event** at the Kejohanan Olahraga UNITEN ke-9 (*2023*).
+- Participant in the **400m event** at Kejohanan Sukan MASISWA (*2022*).
 
- 
+## 🌍 Languages
 
-## 💼 Work Experience  
+- English
+- Malay
+- Tamil
+- Arabic
 
-### **Senior Lecturer @ Universiti Tenaga Nasional (2009 - Present)**  
+## 🎯 Hobbies
 
-- Developed AI-powered **non-technical loss detection systems** for TNB, reducing fraud detection time.  
+- Athletics
+- Badminton
+- Cycling
+- Football
+- Puzzle Solving
+- Travelling
 
-- Designed IoT-based **solar-powered monitoring systems** for renewable energy optimization.  
+## 📢 Contact Information
 
-- Conducted **technical training & workshops** on AI, IoT, and predictive energy analytics.  
-
- 
-
-### **Core Researcher @ Institute of Sustainable Energy (HICoE) (2025 - 2027)**  
-
-- Developed **Perovskite solar cells** with 15% efficiency in collaboration with Ritsumeikan University, Japan.  
-
-- Led **solar-powered IoT sensor deployment** for shrimp farming in Sabah, Malaysia.  
-
- 
-
-### **Consultancy & Industry Projects**  
-
-- **Smart Billing Data Analytics for TNB:** AI-driven fraud detection system, reducing non-technical losses by **10%**.  
-
-- **Low Intelligent Network System (LINES) for Predictive Maintenance:** Detecting electricity fraud across **9 million smart meters**.  
-
-- **Predictive Emission Monitoring System (PEMS):** Achieved **95% accuracy** in emission forecasting using AI.  
-
-- **Fault Classification for TNB Switchgear:** Implemented **ultrasound-based AI analytics** for predictive maintenance.  
-
- 
-
-## 📂 Projects  
-
-### 🔹 AI-Based Renewable Energy Forecasting  
-
-- Developed **machine learning models** for **solar energy yield prediction**, improving accuracy by **20%**.  
-
-- Integrated **big data analytics** to optimize **large-scale solar (LSS) farm performance**.  
-
- 
-
-### 🔹 AI-Powered Smart Grid Analytics  
-
-- Created **AMI (Advanced Metering Infrastructure) analytics tools** for real-time **grid failure prediction**.  
-
-- Designed **worst-performing feeder (WPF) analytics**, reducing downtime and optimizing power distribution.  
-
- 
-
-### 🔹 IoT & Smart Metering Solutions  
-
-- Built a **data analytics platform** for predictive maintenance in **TNB smart metering systems**.  
-
-- Developed an **AI-powered electricity theft detection system**, increasing fraud case identification from **60% to 85%**.  
-
- 
-
-## 🎤 Talks & Workshops  
-
-- **AI in Energy Analytics** - UNITEN Industry Forum  
-
-- **IoT for Smart Grid & Predictive Maintenance** - TNB Training Academy  
-
-- **Machine Learning for Non-Technical Loss Detection** - IEEE Power & Energy Society  
-
- 
-
-## 🏆 Publications & Research  
-
-- Published **39 peer-reviewed papers** in **AI, Smart Grids, IoT, and Power Systems**.  
-
-- **Scopus h-index: 6** with **119 citations** and **13 ISI-indexed papers**.  
-
-- **Secured RM 2.2 million in research funding** for AI-driven energy analytics projects.  
-
- 
-
-## 🏅 Certifications & Professional Memberships  
-
-- **Professional Engineer (Ir.) - Board of Engineers Malaysia (BEM)**  
-
-- **Corporate Member - Institute of Engineers Malaysia (IEM)**  
-
-- **Certified Python Programmer for Data Science**  
-
-- **Certified Cybersecurity Specialist**  
-
-- **Industrial IoT (IIoT) Developer**  
-
- 
-
-## 📢 Connect with Me  
-
-🔗 [LinkedIn](https://www.linkedin.com/in/prajindra/)  
-
-📺 [YouTube Channel](https://www.youtube.com/@prajindrasankar5879)  
-
- 
+📞 Phone: 011-5186 2249
+📧 Email: muhdniyaz2002@gmail.com
+🏠 Address: Kajang 2, 43000 Kajang, Selangor
